@@ -1,0 +1,170 @@
+body {
+font-family: 'Merriweather', serif;
+margin: auto;
+}
+
+div {
+  border: 2px solid green;
+  text-align:left;
+}
+
+.nav ul {
+    display:flex;
+    list-style-type: none;
+    justify-content: space-around;
+    padding: 2px;
+    
+    
+  
+   
+}
+.nav a {
+    text-decoration: none;
+    
+}
+ 
+.nav a:hover{
+    background-color: aqua;3
+}
+.Introduction {
+    padding: 10%;
+    background-image: url(images/nasa-53884-unsplash.jpg);
+    background-size: 100%;
+    background-position:center;
+    text-align: left;
+    color: white;
+
+    
+}
+.background {
+    padding: 5%;
+    background-image: url(images/globe.jpeg);
+    background-position:bottom;
+    background-size: 100%;
+    color: white;
+    margin-bottom: 5px;
+}
+.breaking {
+    text-align: center;
+    color: rebeccapurple;
+}
+
+
+
+.parent {
+    display: flex;
+    width: auto
+    justify-content: space-around;
+    margin: 5px;
+    
+}
+.police {
+    background-image: url(images/police.jpg);
+    background-size: 100%;
+    background-position: center;
+    color: white;
+    margin-bottom: 5px;
+    padding:17%;
+    background-repeat: no-repeat;
+   
+}
+.police a:hover {
+    background-color: aqua;
+    text-decoration: none;
+}
+.conflict {
+    padding: 8%;
+    background-image: url(images/conflict1.jpg);
+    background-size: 100%;
+    background-position: center;
+    color: white;
+   padding:18%;
+    text-decoration: none;
+    background-repeat: no-repeat;
+
+}
+.conflict a:hover {
+    background-color: aqua;
+    text-decoration: none;
+}
+
+
+
+.economics {
+    padding: 8%;
+    background-image: url(images/oilfield.jpeg);
+    background-size: 100%;
+    background-position: bottom;
+    margin-bottom: 10px;
+}
+.economics a:hover {
+    background-color: aqua;
+    text-decoration: none;
+}
+.cfr {
+    padding: 8%;
+    background-image: url(images/plane.jpeg);
+    background-size: 100%;
+    background-position: center;
+    color: white;
+    margin-bottom: 10px;
+}
+.cfr a:hover {
+    background-color: aqua;
+    text-decoration: none;
+}
+
+
+.china {
+    padding: 8%;
+    background-image: url(images/docks.jpg);
+    background-position:bottom;
+    background-size: 100%;
+    color: white;
+    
+        
+    
+}
+
+.china a:hover {
+    background-color: aqua;
+    
+  
+}
+    .resouces {
+         text-align: left;
+         
+ 
+    }
+.parent1 {
+      display: flex;
+    text-align: left;
+    justify-content: space-around;
+    padding: 5%;
+  
+
+    
+}
+.address {
+    background-image: url(images/nycnight.jpg);
+    color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 7%;
+   
+    
+}
+.resouces {
+    background-image: url(images/news.jpg);
+    color: white;
+    background-size: 100%;
+    padding: 7%;
+    
+    
+}
+.intro {
+    background-image: url(images/worlds.jpg);
+    color: rebeccapurple;
+    background-position: center;
+}
+
